@@ -1,8 +1,9 @@
 /.idea
 /hello
-/Include
-/Lib
+/include
+/lib
 /pizza_app
 /Scripts
 /tcl
+/bin
 .gitignore
